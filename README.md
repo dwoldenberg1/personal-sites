@@ -139,6 +139,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
 - David Meza http://www.davidmeza.us
+- David Woldenberg http://dwold.com
 - Deepak Pathania http://deepakpathania.github.io
 - Derek Hua http://derekhua.me
 - Devin Soni http://d-soni.github.io/
